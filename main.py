@@ -1,5 +1,6 @@
 #REMOVE PASS AND FIX THIS FUNCTION
 def palindrome(word):
-    pass
+    word.palindrome == True
+else 'False'
 
 #YOUR CODE GOES HERE
