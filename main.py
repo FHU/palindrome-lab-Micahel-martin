@@ -6,3 +6,10 @@ def palindrome(a_string):
               return a_string == reversed_string
 
 #YOUR CODE GOES HERE
+if ans:
+    print("True")
+else:
+    print("False")
+
+
+
